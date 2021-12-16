@@ -1,0 +1,152 @@
+{
+    "language": "vi",
+    "keyActive": "",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "autoClean": false,
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "BOTNAME": "Bot Của phú",
+    "PREFIX": "/",
+    "ADMINBOT": [
+        "100065489594004",
+        "100068765776474",
+        "1206422895",
+        "100072561287913",
+        "100056601987159"
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": true
+    },
+    "version": "1.2.9",
+    "checktt": {
+        "maxColumn": 10
+    },
+    "daily": {
+        "cooldownTime": 150000,
+        "rewardCoin": 50
+    },
+    "help": {
+        "autoUnsend": true,
+        "delayUnsend": 10
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "rank": {
+        "APIKEY": "170440784240186|bc82258eaaf93ee5b9f577a8d401bfc9"
+    },
+    "rankup": {
+        "autoUnsend": false,
+        "unsendMessageAfter": 5
+    },
+    "rname": {
+        "APIKEY": "mi451266190"
+    },
+    "sauce": {
+        "SAUCENAO_API": "AIzaSyB6pTkV2PM7yLVayhnjDSIM0cE_MbEtuvo"
+    },
+    "sing": {
+        "YOUTUBE_API": "AIzaSyCqdArru09wcc2kgm6uuzr6UN6c-HITQoU",
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    },
+    "video": {
+        "YOUTUBE_API": "AIzaSyA1ju10-FQ3FrMfAi-oOB98puHgbmIdWZU"
+    },
+    "weather": {
+        "OPEN_WEATHER": "081c82065cfee62cb7988ddf90914bdd"
+    },
+    "work": {
+        "cooldownTime": 700000
+    },
+    "adminUpdate": {
+        "autoUnsend": false,
+        "sendNoti": false,
+        "timeToUnsend": 10
+    },
+    "sim": {
+        "APIKEY": "Meew_WmNjfZmTS3bBYSVbHajyj0FawSOa0l"
+    },
+    "surprise": {
+        "log": true,
+        "out": "",
+        "kickAll": "",
+        "delThread": ""
+    },
+    "SOUNDCLOUD_API": {
+        "APIKEY": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    },
+    "ghep": {
+        "APIKEY": "531532681600063|PZKvEhQ2eQ_XGkh5GlhMv6HBS60"
+    },
+    "info": {
+        "APIKEY": "531532681600063|PZKvEhQ2eQ_XGkh5GlhMv6HBS60"
+    },
+    "log": {
+        "enable": true
+    },
+    "covid": {
+        "APIKEY": "Meew_WmNjfZmTS3bBYSVbHajyj0FawSOa0l"
+    },
+    "hitbutt": {
+        "APIKEY": "Meew_lMlX8U7d9ZUYKWFeosDWnIip5edLWR"
+    },
+    "img": {
+        "APIKEY": "MEWQmluZHo7YmludGFwaGFjaDFAZ21haWwuY29"
+    },
+    "linkword": {
+        "APIKEY": "MEWQmluZHo7YmludGFwaGFjaDFAZ21haWwuY29"
+    },
+    "sortword": {
+        "APIKEY": "MEWQmluZHo7YmludGFwaGFjaDFAZ21haWwuY29"
+    },
+    "teach": {
+        "APIKEY": "Meew_0kNthR4WA15kYSMuVHNzz52W0Ipbsi"
+    },
+    "slap": {
+        "APIKEY": "MEWQmluZHo7YmludGFwaGFjaDFAZ21haWwuY29"
+    },
+    "menu": {
+        "autoUnsend": false,
+        "unsendMessageAfter": 5,
+        "delayUnsend": 10
+    },
+    "caesar": {
+        "caeserPassword": "266303"
+    },
+    "cave": {
+        "cooldownTime": 1000000
+    },
+    "shortlink": {
+        "bitlyAPI": ""
+    },
+    "tiktok": {
+        "APIKEY": ""
+    },
+    "simmp3": {
+        "APIKEY": ""
+    },
+    "banner": {
+        "APIKEY": "ntkhang"
+    },
+    "banner2": {
+        "APIKEY": "ntkhang"
+    },
+    "bannerbw": {
+        "APIKEY": "ntkhang"
+    }
+}
